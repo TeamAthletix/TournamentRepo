@@ -12,7 +12,7 @@ This app is designed to function as a single operating system for tournaments, l
 
 ### 2. Registration, Rosters & Compliance
 - Unified team and individual registration embedded on organizer websites.
-- Roster management for coach invites, player adds/removes, document tracking, and compliance.
+- Roster management for coach invitations, adding/removing players, document tracking, and compliance.
 - Waiver/document collection during registration, including medical forms and grade verification.
 
 ### 3. Identity, Age & Eligibility Verification
@@ -27,7 +27,7 @@ This app is designed to function as a single operating system for tournaments, l
 - Real-time fan/parent updates for scores, directions, and announcements.
 
 ### 5. Ticketing & Access Control
-- Digital ticketing with QR pre-sales and reduced cash handling.
+- Digital ticketing with QR-code ticket presales and reduced cash handling.
 - Gate check-in via QR scanning for attendees and players.
 - Revenue tracking with automated reconciliation and reporting.
 
@@ -53,7 +53,7 @@ This app is designed to function as a single operating system for tournaments, l
 
 ### 10. Mobile App Experience
 - All-in-one app experience for schedules, rosters, tickets, highlights, messaging, and recruiting.
-- Offline mode for schedule/roster access in low connectivity.
+- Offline mode for schedule/roster access in low-connectivity environments.
 - Personalized push notifications for teams, events, and athletes.
 
 ### 11. Social + Operational Layer
